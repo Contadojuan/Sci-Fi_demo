@@ -3,7 +3,12 @@ guid: 271d35bd921f66b4f9a1562cfbba7780
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - muzzleFlash: {fileID: 1481494863829372, guid: 90ede6b057f813143905c5709cb9df0a,
+      type: 2}
+  - _hitMarkerPrefab: {fileID: 1278410308571632, guid: 0dca392d0ad60af418c1bace1abde0c6,
+      type: 2}
+  - _shotSound: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
